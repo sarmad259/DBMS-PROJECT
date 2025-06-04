@@ -62,9 +62,10 @@ Admin interface is accessible via /admin after creating a superuser.
 
 Static files are managed with Django’s {% static %} tag.
 
-**🤝 Contributors:**
-Ubaid Ur Rehman - Creator & Project Lead
-Sarmad259 – Creator & Developer
+🤝 Contributors
+## 🤝 **Contributors**  
+- [Sarmad259](https://github.com/sarmad259) – Creator & Developer  
+- [Ubaid](https://github.com/UBAID0315) – Creator & Developer  
 
 
 
